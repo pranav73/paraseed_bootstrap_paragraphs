@@ -1,0 +1,7 @@
+paraseed_bootstrap_paragraphs.settings:
+  path: '/admin/config/paraseed/paraseed-bootstrap-paragraphs'
+  defaults:
+    _form: '\Drupal\paraseed_bootstrap_paragraphs\Form\ParaseedBootstrapParagraphsSettingsForm'
+    _title: 'Paraseed Bootstrap Paragraphs settings'
+  requirements:
+    _permission: 'administer paraseed bootstrap paragraphs settings'

@@ -1,0 +1,5 @@
+paraseed_bootstrap_paragraphs.settings:
+  title: 'Paraseed Bootstrap Paragraphs settings'
+  description: 'Configuring Paraseed Bootstrap Paragraphs.'
+  parent: paraseed_core.settings_index
+  route_name: paraseed_bootstrap_paragraphs.settings

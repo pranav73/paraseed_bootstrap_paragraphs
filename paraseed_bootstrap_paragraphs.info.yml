@@ -1,0 +1,23 @@
+name: 'Paraseed Bootstrap Paragraphs'
+type: module
+description: 'A suite of Paragraph bundles to be used for Parseed distribution. Made with the Boostrap framework, based on a fork of Bootstrap Paragraph module (bootstrap_paragraphs).'
+core: 8.x
+package: Paraseed
+dependencies:
+  - paraseed_media
+  - text
+  - options
+  - link
+  - ckeditor
+  - block
+  - advanced_text_formatter
+  - field_group
+  - maxlength
+  - webform
+  - viewsreference
+  - entity_reference_revisions
+  - paragraphs
+  - paragraphs_library
+  - paragraphs_previewer
+  - paragraphs_edit
+version: 8.x-1.0
