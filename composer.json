@@ -26,7 +26,7 @@
     "cweagans/composer-patches": "~1.0",
     "drupal/drupal-library-installer-plugin": "^0.3",
     "drupal/core": "^8.8.0 || ~9.0.0",
-    "pranav73/paraseed_media": "dev-master",
+    "pranav/paraseed_media": "dev-master",
     "drupal/paragraphs": "1.12",
     "drupal/paragraphs_previewer": "1.5",
     "drupal/paragraphs_edit": "~2.0",
