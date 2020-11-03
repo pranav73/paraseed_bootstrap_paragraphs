@@ -4,9 +4,9 @@ type: module
 core_version_requirement: ^8 || ^9
 package: Paraseed
 dependencies:
-  - Paraseed_bootstrap_paragraphs:Paraseed_bootstrap_paragraphs
+  - paraseed_bootstrap_paragraphs:paraseed_bootstrap_paragraphs
 install:
-  - Paraseed_landing
+  - paraseed_landing
 
 # Information added by Drupal.org packaging script on 2020-09-25
 version: '8.x-7.16'
